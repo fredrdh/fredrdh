@@ -31,10 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrdh&" alt="fredrdh" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **encontrefred@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
