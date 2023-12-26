@@ -37,9 +37,4 @@
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
-<br>
 
-<br>
-
-      
-[!](https://holopin.me/adampw)](https://holopin.io/@adampw)
