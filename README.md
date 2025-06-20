@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">🔭 I'm a Jr. Software Engineer, always striving to expand my knowledge in programming!<br><br>🌱 I’m currently learning Java and Ruby <br><br>👨‍💻 All of my projects are available at http://troopl.com/fredfranssa<br><br>💬 Ask me about React, Ruby, Python, R<br><br>📫 How to reach me: encontrefred@gmail.com<br><br>📄 Know about my experiences: https://flowcv.com/resume/6752psqub3<br><br>🌐 Let's connect at https://www.linkedin.com/in/fredfranssa/</h4>
+<h4 align="center">🔭 I'm a Jr. Software Engineer, always striving to expand my knowledge in programming!<br><br>🌱 I’m currently learning Java and Angular <br><br>👨‍💻 All of my projects are available at http://troopl.com/fredfranssa<br><br>💬 Ask me about React, Ruby, Python, R<br><br>📫 How to reach me: encontrefred@gmail.com<br><br>📄 Know about my experiences: https://flowcv.com/resume/6752psqub3<br><br>🌐 Let's connect at https://www.linkedin.com/in/fredfranssa/</h4>
 
 ###
 
