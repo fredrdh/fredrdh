@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="height:30px; vertical-align:middle;" alt="ruby logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" style="height:30px; vertical-align:middle;" alt="quarkus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height:30px; vertical-align:middle;" alt="angularjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" style="height:30px; vertical-align:middle;" alt="rails logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" style="height:30px; vertical-align:middle;" alt="rails logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:30px; vertical-align:middle;" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:30px; vertical-align:middle;" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" style="height:30px; vertical-align:middle;" alt="kubernetes logo" />
