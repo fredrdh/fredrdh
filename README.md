@@ -49,7 +49,8 @@
 
 <h3 align="center">🔥 My Stats :</h3>
 
-<p align="center">
+<div align="center">
   https://streak-stats.demolab.com?user=fredrdh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
-</p>
+</div>
+
 
