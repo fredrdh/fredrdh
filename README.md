@@ -49,7 +49,10 @@
 
 <h3 align="center">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fredrdh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fredrdh&show_icons=true&hide_title=true&rank&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,total_issues,contribs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrdh&langs_count=2"/>
+</p>
 
