@@ -45,14 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="height:30px; vertical-align:middle;" alt="sass logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:30px; vertical-align:middle;" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px; vertical-align:middle;" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" style="height:30px; vertical-align:middle;" alt="react logo" />
+          
 </div>
 
 <h3 align="center">🔥 My Stats :</h3>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredrdh&show_icons=true&hide_title=true&rank&rank_icon=github&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=issues,total_issues,contribs"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrdh&langs_count=2"/>
-</p>
-
+<div align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrdh&theme=dark" alt="Fred's GitHub Streak" />
+</div>
