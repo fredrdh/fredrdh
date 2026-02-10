@@ -6,7 +6,7 @@
 
 <h4 align="center">
   🔭 I'm a Jr. Software Engineer, always striving to expand my knowledge in programming!<br><br>
-  🌱 I’m currently learning Java and Angular <br><br>
+  🌱 I'm currently learning Java and Angular <br><br>
   👨‍💻 All of my projects are available at <a href="http://troopl.com/fredfranssa">troopl.com/fredfranssa</a><br><br>
   💬 Ask me about React, Ruby, Python, R<br><br>
   📫 How to reach me: <a href="mailto:encontrefred@gmail.com">encontrefred@gmail.com</a><br><br>
@@ -17,39 +17,31 @@
 <h3 align="center">🛠 Language and tools:</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="height:30px; vertical-align:middle;" alt="ruby logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" style="height:30px; vertical-align:middle;" alt="quarkus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height:30px; vertical-align:middle;" alt="angularjs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" style="height:30px; vertical-align:middle;" alt="rails logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:30px; vertical-align:middle;" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:30px; vertical-align:middle;" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" style="height:30px; vertical-align:middle;" alt="kubernetes logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="height:30px; vertical-align:middle;" alt="anaconda logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px; vertical-align:middle;" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:30px; vertical-align:middle;" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="height:30px; vertical-align:middle;" alt="heroku logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px; vertical-align:middle;" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height:30px; vertical-align:middle;" alt="vuejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" style="height:30px; vertical-align:middle;" alt="elm logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" style="height:30px; vertical-align:middle;" alt="maven logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:30px; vertical-align:middle;" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px; vertical-align:middle;" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height:30px; vertical-align:middle;" alt="kotlin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:30px; vertical-align:middle;" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:30px; vertical-align:middle;" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="height:30px; vertical-align:middle;" alt="r logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px; vertical-align:middle;" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:30px; vertical-align:middle;" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="height:30px; vertical-align:middle;" alt="ubuntu logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="height:30px; vertical-align:middle;" alt="rstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="height:30px; vertical-align:middle;" alt="sass logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:30px; vertical-align:middle;" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px; vertical-align:middle;" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" style="height:30px; vertical-align:middle;" alt="react logo" />
-          
+  <img src="https://skillicons.dev/icons?i=rails" height="40" title="Rails" alt="rails" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" title="Ruby" alt="ruby" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" title="Maven" alt="maven" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" alt="java" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" alt="python" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" title="Angular" alt="angular" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" title="Vite" alt="vite" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" title="Vue" alt="vue" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" alt="react" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript" alt="javascript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML5" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS3" alt="css" />
+  <img src="https://skillicons.dev/icons?i=emotion" height="40" title="Emotion" alt="emotion" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" title="Bootstrap" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" alt="mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" alt="postgres" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" title="Kubernetes" alt="kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" alt="git" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VSCode" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" alt="figma" />
 </div>
 
-<h3 align="center">🔥 My Stats :</h3>
+<h3 align="center">🔥 My Stats:</h3>
 
 <div align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=fredrdh&theme=dark" alt="Fred's GitHub Streak" />
